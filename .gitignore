@@ -1,0 +1,6 @@
+.idea/
+*.iml
+out/
+Shop_Online.iml
+
+out/production/Shop_Online/app
